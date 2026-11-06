@@ -1,0 +1,14 @@
+{
+  "version": "0.2.10",
+  "notes": "Built from fulvaz/dada-todo@769fc53",
+  "pub_date": "2026-11-06T05:06:53Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSd2gveFVTOFRKR3FRcUcveC84OGF1dmNsaGdKTzNRSlBOK3BUaDVINDlvYmNkZGtEa2c2MC9veG1QSDVnN3plSmlxQVFsLy84WGZSbmV6cy9HQU01NFZyb1JRV0l2R3d3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTQxMjkxCWZpbGU6RGFkYS5hcHAudGFyLmd6CXZlcnNpb246MC4yLjEwCkFETlFsMmNGOGNZeUZTN2JaMFJLQW5mL1lOaG9aRktFZTFRNVc4di9xNUx4QkltWDhrMXZmS2RzU3ZwWjgyT3B6TFVuSGt0ZGpzYkR3VzZZVXB3Y0N3PT0K",
+      "url": "https://raw.githubusercontent.com/fulvaz/dada-todo-releases/main/Dada_0.2.10_aarch64.app.tar.gz"
+    }
+  },
+  "android": {
+    "url": "https://raw.githubusercontent.com/fulvaz/dada-todo-releases/main/Dada_0.2.10_arm64.apk"
+  }
+}
